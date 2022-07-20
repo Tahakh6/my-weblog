@@ -1,0 +1,14 @@
+* {
+    direction: ltr;
+}
+
+.REGSTER {
+    background-color: black;
+    text-align: center;
+    color: #ffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form {
+    background-color: red;
+}

@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+}
+
+.titer {
+    text-align: center;
+    color: red;
+}
+
+.phone {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.instagram {
+    color: red;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.photos {
+    color: #ffff;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
